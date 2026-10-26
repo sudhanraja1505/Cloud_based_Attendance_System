@@ -14,6 +14,8 @@
 5. The teacher can tick/untick students in a session, view the class report (attended / total / %), and download it as CSV.
 6. Students see their attendance percentage per class, with a warning below 75% (change MIN_PERCENT in app.py).
 
+<img width="1905" height="837" alt="image" src="https://github.com/user-attachments/assets/5ca0e765-e252-4be4-8dd1-86ada852faba" />
+
 <img width="1910" height="865" alt="Screenshot 2026-10-26 184846" src="https://github.com/user-attachments/assets/7c29ed5e-3576-4894-b0eb-21d858c8dfc0" />
 
 ## Deploy to the cloud
