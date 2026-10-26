@@ -14,6 +14,8 @@
 5. The teacher can tick/untick students in a session, view the class report (attended / total / %), and download it as CSV.
 6. Students see their attendance percentage per class, with a warning below 75% (change MIN_PERCENT in app.py).
 
+<img width="1910" height="865" alt="Screenshot 2026-10-26 184846" src="https://github.com/user-attachments/assets/7c29ed5e-3576-4894-b0eb-21d858c8dfc0" />
+
 ## Deploy to the cloud
 - Set SECRET_KEY and DB_PATH
 - Linux: pip install gunicorn, run `gunicorn app:app`. Windows: pip install waitress, run `waitress-serve app:app`
